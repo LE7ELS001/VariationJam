@@ -2,7 +2,7 @@
 
 Created by Junming He
 
-[View this project online](https://le7els001.github.io/Variation-Jam/)
+[View this project online](https://le7els001.github.io/VariationJam/)
 
 ## Description
 
